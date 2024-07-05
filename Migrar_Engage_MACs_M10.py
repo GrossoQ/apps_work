@@ -93,4 +93,4 @@ def migrar_M10():
 while True:
     migrar_M10()
     # Esperar unos segundos antes de reiniciar el script
-    time.sleep(1)  # Ajusta el tiempo de espera según sea necesario
+    time.sleep(2)  # Ajusta el tiempo de espera según sea necesario
